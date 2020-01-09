@@ -1,7 +1,7 @@
 # Colorcnt
 
 Colorcnt is a utility that takes a list of image urls and processes it concurrently.
-During the processing it finds top most used colors in those image and writes the results to a CSV file.
+During the processing it finds top most used colors in those images and writes the results to a CSV file.
 
 Note: this application ignores alpha channel.
 
